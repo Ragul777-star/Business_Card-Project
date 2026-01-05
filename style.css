@@ -1,0 +1,27 @@
+body{
+    margin-top:25px;
+}
+
+.Profile_pic{
+    width:150px;
+}
+
+.Bio-Content{
+    margin:35px;
+}
+
+.card{
+    padding:20px;
+    display:flex;
+    justify-content: space-around;
+    width:350px;
+    margin:  0 auto;
+    border-bottom: 5px solid #d8cefe;
+    background: #ddebf8;
+    color:#2b2839;
+}
+
+
+article{
+    text-align:center;
+}
